@@ -18,6 +18,11 @@ The component have 5 attributes:
 | ComponentIfProps | **No** | Props you can send to the If Component | **any**
 | ComponentElseProps | **No** | Props you can send to the Else Component | **any**
 
+### Import
+```js
+import RenCond from 'rencond-react'
+```
+### Use
 ```html import RenCond from 'rencond-react'
 <RenCond
  ComponentIf={someComponent}
